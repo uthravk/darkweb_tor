@@ -1,3 +1,2 @@
-# seeds_onion.txt - ONLY include mentor-approved .onion URLs
-# Example format (replace with approved seeds):
-# http://exampleonionaddress.onion/
+http://bmguns7xglvmnlnz5nd543dczp3fnsfd6jecwpjomvhov4dn4ikxmqyd.onion
+
